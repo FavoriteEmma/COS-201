@@ -50,7 +50,3 @@ Follow the prompts shown by the program.
 - Unit cost: `150`
 - Quantity: `4`
 - Expected total cost: `600.00`
-
-## Notes
-
-These are sample implementations based on the filenames provided for the COS 201 Week 3 submission. If your lecturer gave specific instructions or sample input/output for any program, follow those requirements and adjust the relevant program before submitting.
